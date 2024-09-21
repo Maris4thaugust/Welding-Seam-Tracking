@@ -1,0 +1,13 @@
+X = (u-cx)*Z/fx
+Y = (v-cy)*Z/fy
+
+fx = 689.0883 (pixel)	
+fy = 697.7927 (pixel)
+cx = 340      (pixel)
+cy = 204      (pixel)
+Z  = 355      (mm)
+u  = 350      (pixel)
+v  = 74      (pixel)
+
+=> X = 5.1517(mm)
+   Y = -66.1371 (mm)
